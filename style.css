@@ -2,14 +2,26 @@ body{
     text-align: center;
     font-weight: "Arial";
     font-size: 16px;
+    padding: 0;
+    margin: 0;
 }
 .container{
     width: 70%;
-    padding: 1em;
+    padding: 0em;
     text-align: left;
     border: 1px solid #DDD;
     margin: 0 auto;
 }
 .container h1{
     font-size: 30px;
+}
+.cabecera{
+    font-size:30px;
+    background-color: blue;
+    margin: 0;
+    color: cornsilk;
+    padding: 10px;
+}
+.element{
+    font-size: 20px;
 }
